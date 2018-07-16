@@ -8,6 +8,6 @@ This is what your 'Google Authenticator' expects. Typically you can manually ent
 I have used this secret key and the [Google ZXing library](https://github.com/zxing/zxing) to generate a QR code
 which can be scanned directly via the authenticator app. This sets your account up and starts generating the 6 digit numbers required.
 
-Material used to create this app - [Blog](http://www.asaph.org/2016/04/google-authenticator-2fa-java.html)
+Material used to create this app - [Blog](http://www.asaph.org/2016/04/google-authenticator-2fa-java.html) - [github source](https://github.com/asaph/twofactorauth/blob/master/src/main/java/org/asaph/twofactorauth/GoogleAuthenticatorDemo.java)
 
 
